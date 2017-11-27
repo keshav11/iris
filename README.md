@@ -1,5 +1,6 @@
 # iris
 ### Motivation:
+Learning the basics
 
 ### Dataset
 Data set has been taken from: https://archive.ics.uci.edu/ml/datasets/iris
